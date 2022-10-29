@@ -1,4 +1,4 @@
-package Homework_8th_Week_bSunday;
+package Homework_8th_Week_bSunday.Text_Analysis;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
