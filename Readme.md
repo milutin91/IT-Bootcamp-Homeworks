@@ -29,4 +29,4 @@ working on mini project [ITBC-Kitchen](https://github.com/milutin91/ITBC-Kitchen
 * [Comparing bottles](https://github.com/milutin91/IT-Bootcamp-Homeworks/blob/9adf738b6f5c7f2e927ccdb988f11b6acdea06eb/src/Homework_4th_Week_Sunday/Comparing_Bottles)
 * [Simple book library](https://github.com/milutin91/IT-Bootcamp-Homeworks/blob/9adf738b6f5c7f2e927ccdb988f11b6acdea06eb/src/Homework_4th_Week_Sunday/Simple_Book_Library)
 * [Simple cash register](https://github.com/milutin91/IT-Bootcamp-Homeworks/blob/9adf738b6f5c7f2e927ccdb988f11b6acdea06eb/src/Homework_5th_Week_bSunday/Simple_Cash_Register)
-* [Text analysis](https://github.com/milutin91/IT-Bootcamp-Homeworks/blob/9adf738b6f5c7f2e927ccdb988f11b6acdea06eb/src/Homework_8th_Week_bSunday/Text_Analysis) Working with files
+* [Text analysis](https://github.com/milutin91/IT-Bootcamp-Homeworks/tree/main/src/Homework_8th_Week_bSunday/Text_Analysis) Working with files
