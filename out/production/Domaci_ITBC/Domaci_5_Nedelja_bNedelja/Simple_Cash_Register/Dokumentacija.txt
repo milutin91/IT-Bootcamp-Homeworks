@@ -1,0 +1,18 @@
+     Product - abstract
+ - WeightedProduct
+ - SingleProduct
+
+ Service - abstract
+ - SubscriptionService
+ - SinglePurchaseService
+
+ Апликација за унос ствари које имају цену:
+ - Понуђено 0 izlaz, 1 dase unese broj, 2 da se unese string, 3, 4
+   - Излаз
+   - WeightedProduct
+   - SingleProduct
+   - SubscriptionService
+   - SinglePurchaseService
+ - На основу избора, уносе се коректне вредности
+ - Све уносе стрпамо у листу
+ - Израчунати укупну цену
